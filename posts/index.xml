@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on SerDes Lab</title>
+    <link>https://serdeslab.com/posts/</link>
+    <description>Recent content in Posts on SerDes Lab</description>
+    <generator>Hugo -- 0.154.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://serdeslab.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello SerDes</title>
+      <link>https://serdeslab.com/posts/hello-serdes/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://serdeslab.com/posts/hello-serdes/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;SerDes Lab&lt;/strong&gt; 🚀&lt;/p&gt;
+&lt;p&gt;This blog focuses on high-speed serial link design and system-level analysis, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SerDes architectures, CDR, FFE, and DFE&lt;/li&gt;
+&lt;li&gt;System-level modeling using MATLAB and Python&lt;/li&gt;
+&lt;li&gt;Reproducible simulations and algorithmic exploration&lt;/li&gt;
+&lt;li&gt;Bridging engineering practice with knowledge monetization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The goal of SerDes Lab is to provide &lt;strong&gt;clear, practical, and reproducible insights&lt;/strong&gt;&lt;br&gt;
+into modern high-speed I/O design.&lt;/p&gt;
+&lt;p&gt;Stay tuned.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
