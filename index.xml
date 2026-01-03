@@ -13,13 +13,16 @@
       <link>https://serdeslab.com/posts/hello-serdes/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://serdeslab.com/posts/hello-serdes/</guid>
-      <description>&lt;p&gt;Welcome to &lt;strong&gt;SerDes Lab&lt;/strong&gt; 🚀&lt;/p&gt;
-&lt;p&gt;This blog focuses on high-speed serial link design and system-level analysis, including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;SerDes architectures&lt;/li&gt;
-&lt;li&gt;CDR, FFE, and DFE&lt;/li&gt;
-&lt;li&gt;System-level modeling using MATLAB and Python&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>Welcome to SerDes Lab 🚀
+
+This blog focuses on high-speed serial link design and system-level analysis, including:
+
+• SerDes architectures  
+• CDR, FFE, and DFE  
+• System-level modeling using MATLAB and Python  
+
+Clear, practical, and reproducible insights into modern high-speed I/O design.
+</description>
     </item>
   </channel>
 </rss>
