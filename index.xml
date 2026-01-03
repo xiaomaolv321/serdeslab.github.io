@@ -6,24 +6,23 @@
     <description>Recent content on SerDes Lab</description>
     <generator>Hugo -- 0.154.1</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://serdeslab.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello SerDes</title>
+      <title>SerDes Lab</title>
       <link>https://serdeslab.com/posts/hello-serdes/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://serdeslab.com/posts/hello-serdes/</guid>
-      <description>&lt;p&gt;Welcome to &lt;strong&gt;SerDes Lab&lt;/strong&gt; 🚀&lt;/p&gt;
-&lt;p&gt;This blog focuses on high-speed serial link design and system-level analysis, including:&lt;/p&gt;
+      <description>&lt;h2 id=&#34;high-speed-serial-link-design--system-level-insights&#34;&gt;High-Speed Serial Link Design &amp;amp; System-Level Insights&lt;/h2&gt;
+&lt;p&gt;Welcome to &lt;strong&gt;SerDes Lab&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This blog focuses on practical and reproducible analysis of modern high-speed serial links, including:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;SerDes architectures, CDR, FFE, and DFE&lt;/li&gt;
-&lt;li&gt;System-level modeling using MATLAB and Python&lt;/li&gt;
-&lt;li&gt;Reproducible simulations and algorithmic exploration&lt;/li&gt;
-&lt;li&gt;Bridging engineering practice with knowledge monetization&lt;/li&gt;
+&lt;li&gt;SerDes architectures and PHY design considerations&lt;/li&gt;
+&lt;li&gt;Clock and Data Recovery (CDR) theory and implementation&lt;/li&gt;
+&lt;li&gt;TX/RX equalization techniques (FFE, CTLE, DFE)&lt;/li&gt;
+&lt;li&gt;System-level modeling and verification using MATLAB and Python&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The goal of SerDes Lab is to provide &lt;strong&gt;clear, practical, and reproducible insights&lt;/strong&gt;&lt;br&gt;
-into modern high-speed I/O design.&lt;/p&gt;
-&lt;p&gt;Stay tuned.&lt;/p&gt;</description>
+&lt;p&gt;SerDes Lab aims to bridge real-world engineering practice with clear, structured explanations and reproducible simulations.&lt;/p&gt;
+&lt;p&gt;The content here is based on hands-on design experience, algorithm exploration, and system-level thinking.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

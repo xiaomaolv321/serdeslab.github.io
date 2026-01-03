@@ -5,19 +5,19 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Hello SerDes | SerDes Lab</title>
+<title>SerDes Lab | SerDes Lab</title>
 <meta name="keywords" content="">
-<meta name="description" content="Welcome to SerDes Lab 🚀
-This blog focuses on high-speed serial link design and system-level analysis, including:
+<meta name="description" content="High-Speed Serial Link Design &amp; System-Level Insights
+Welcome to SerDes Lab.
+This blog focuses on practical and reproducible analysis of modern high-speed serial links, including:
 
-SerDes architectures, CDR, FFE, and DFE
-System-level modeling using MATLAB and Python
-Reproducible simulations and algorithmic exploration
-Bridging engineering practice with knowledge monetization
+SerDes architectures and PHY design considerations
+Clock and Data Recovery (CDR) theory and implementation
+TX/RX equalization techniques (FFE, CTLE, DFE)
+System-level modeling and verification using MATLAB and Python
 
-The goal of SerDes Lab is to provide clear, practical, and reproducible insights
-into modern high-speed I/O design.
-Stay tuned.">
+SerDes Lab aims to bridge real-world engineering practice with clear, structured explanations and reproducible simulations.
+The content here is based on hands-on design experience, algorithm exploration, and system-level thinking.">
 <meta name="author" content="SerDes Lab">
 <link rel="canonical" href="https://serdeslab.com/posts/hello-serdes/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.fd5566c526ae48aadabd950798a2dc3568536401560eae5caac3765a42a9e7b5.css" integrity="sha256-/VVmxSauSKravZUHmKLcNWhTZAFWDq5cqsN2WkKp57U=" rel="preload stylesheet" as="style">
@@ -82,30 +82,27 @@ Stay tuned.">
 
 </script><meta property="og:url" content="https://serdeslab.com/posts/hello-serdes/">
   <meta property="og:site_name" content="SerDes Lab">
-  <meta property="og:title" content="Hello SerDes">
-  <meta property="og:description" content="Welcome to SerDes Lab 🚀
-This blog focuses on high-speed serial link design and system-level analysis, including:
-SerDes architectures, CDR, FFE, and DFE System-level modeling using MATLAB and Python Reproducible simulations and algorithmic exploration Bridging engineering practice with knowledge monetization The goal of SerDes Lab is to provide clear, practical, and reproducible insights
-into modern high-speed I/O design.
-Stay tuned.">
+  <meta property="og:title" content="SerDes Lab">
+  <meta property="og:description" content="High-Speed Serial Link Design &amp; System-Level Insights Welcome to SerDes Lab.
+This blog focuses on practical and reproducible analysis of modern high-speed serial links, including:
+SerDes architectures and PHY design considerations Clock and Data Recovery (CDR) theory and implementation TX/RX equalization techniques (FFE, CTLE, DFE) System-level modeling and verification using MATLAB and Python SerDes Lab aims to bridge real-world engineering practice with clear, structured explanations and reproducible simulations.
+The content here is based on hands-on design experience, algorithm exploration, and system-level thinking.">
   <meta property="og:locale" content="zh-cn">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2026-01-02T00:00:00+00:00">
-    <meta property="article:modified_time" content="2026-01-02T00:00:00+00:00">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Hello SerDes">
-<meta name="twitter:description" content="Welcome to SerDes Lab 🚀
-This blog focuses on high-speed serial link design and system-level analysis, including:
+<meta name="twitter:title" content="SerDes Lab">
+<meta name="twitter:description" content="High-Speed Serial Link Design &amp; System-Level Insights
+Welcome to SerDes Lab.
+This blog focuses on practical and reproducible analysis of modern high-speed serial links, including:
 
-SerDes architectures, CDR, FFE, and DFE
-System-level modeling using MATLAB and Python
-Reproducible simulations and algorithmic exploration
-Bridging engineering practice with knowledge monetization
+SerDes architectures and PHY design considerations
+Clock and Data Recovery (CDR) theory and implementation
+TX/RX equalization techniques (FFE, CTLE, DFE)
+System-level modeling and verification using MATLAB and Python
 
-The goal of SerDes Lab is to provide clear, practical, and reproducible insights
-into modern high-speed I/O design.
-Stay tuned.">
+SerDes Lab aims to bridge real-world engineering practice with clear, structured explanations and reproducible simulations.
+The content here is based on hands-on design experience, algorithm exploration, and system-level thinking.">
 
 
 <script type="application/ld+json">
@@ -122,7 +119,7 @@ Stay tuned.">
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "Hello SerDes",
+      "name": "SerDes Lab",
       "item": "https://serdeslab.com/posts/hello-serdes/"
     }
   ]
@@ -132,17 +129,17 @@ Stay tuned.">
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Hello SerDes",
-  "name": "Hello SerDes",
-  "description": "Welcome to SerDes Lab 🚀\nThis blog focuses on high-speed serial link design and system-level analysis, including:\nSerDes architectures, CDR, FFE, and DFE System-level modeling using MATLAB and Python Reproducible simulations and algorithmic exploration Bridging engineering practice with knowledge monetization The goal of SerDes Lab is to provide clear, practical, and reproducible insights\ninto modern high-speed I/O design.\nStay tuned.\n",
+  "headline": "SerDes Lab",
+  "name": "SerDes Lab",
+  "description": "High-Speed Serial Link Design \u0026amp; System-Level Insights Welcome to SerDes Lab.\nThis blog focuses on practical and reproducible analysis of modern high-speed serial links, including:\nSerDes architectures and PHY design considerations Clock and Data Recovery (CDR) theory and implementation TX/RX equalization techniques (FFE, CTLE, DFE) System-level modeling and verification using MATLAB and Python SerDes Lab aims to bridge real-world engineering practice with clear, structured explanations and reproducible simulations.\nThe content here is based on hands-on design experience, algorithm exploration, and system-level thinking.\n",
   "keywords": [
     
   ],
-  "articleBody": "Welcome to SerDes Lab 🚀\nThis blog focuses on high-speed serial link design and system-level analysis, including:\nSerDes architectures, CDR, FFE, and DFE System-level modeling using MATLAB and Python Reproducible simulations and algorithmic exploration Bridging engineering practice with knowledge monetization The goal of SerDes Lab is to provide clear, practical, and reproducible insights\ninto modern high-speed I/O design.\nStay tuned.\n",
-  "wordCount" : "60",
+  "articleBody": "High-Speed Serial Link Design \u0026 System-Level Insights Welcome to SerDes Lab.\nThis blog focuses on practical and reproducible analysis of modern high-speed serial links, including:\nSerDes architectures and PHY design considerations Clock and Data Recovery (CDR) theory and implementation TX/RX equalization techniques (FFE, CTLE, DFE) System-level modeling and verification using MATLAB and Python SerDes Lab aims to bridge real-world engineering practice with clear, structured explanations and reproducible simulations.\nThe content here is based on hands-on design experience, algorithm exploration, and system-level thinking.\nStay tuned for in-depth technical articles, models, and tools for high-speed I/O designers.\n",
+  "wordCount" : "95",
   "inLanguage": "en",
-  "datePublished": "2026-01-02T00:00:00Z",
-  "dateModified": "2026-01-02T00:00:00Z",
+  "datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
   "author":{
     "@type": "Person",
     "name": "SerDes Lab"
@@ -200,23 +197,24 @@ Stay tuned.">
   <header class="post-header">
     
     <h1 class="post-title entry-hint-parent">
-      Hello SerDes
+      SerDes Lab
     </h1>
-    <div class="post-meta"><span title='2026-01-02 00:00:00 +0000 UTC'>January 2, 2026</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>SerDes Lab</span>
+    <div class="post-meta"><span>1 min</span>&nbsp;·&nbsp;<span>SerDes Lab</span>
 
 </div>
   </header> 
-  <div class="post-content"><p>Welcome to <strong>SerDes Lab</strong> 🚀</p>
-<p>This blog focuses on high-speed serial link design and system-level analysis, including:</p>
+  <div class="post-content"><h2 id="high-speed-serial-link-design--system-level-insights">High-Speed Serial Link Design &amp; System-Level Insights<a hidden class="anchor" aria-hidden="true" href="#high-speed-serial-link-design--system-level-insights">#</a></h2>
+<p>Welcome to <strong>SerDes Lab</strong>.</p>
+<p>This blog focuses on practical and reproducible analysis of modern high-speed serial links, including:</p>
 <ul>
-<li>SerDes architectures, CDR, FFE, and DFE</li>
-<li>System-level modeling using MATLAB and Python</li>
-<li>Reproducible simulations and algorithmic exploration</li>
-<li>Bridging engineering practice with knowledge monetization</li>
+<li>SerDes architectures and PHY design considerations</li>
+<li>Clock and Data Recovery (CDR) theory and implementation</li>
+<li>TX/RX equalization techniques (FFE, CTLE, DFE)</li>
+<li>System-level modeling and verification using MATLAB and Python</li>
 </ul>
-<p>The goal of SerDes Lab is to provide <strong>clear, practical, and reproducible insights</strong><br>
-into modern high-speed I/O design.</p>
-<p>Stay tuned.</p>
+<p>SerDes Lab aims to bridge real-world engineering practice with clear, structured explanations and reproducible simulations.</p>
+<p>The content here is based on hands-on design experience, algorithm exploration, and system-level thinking.</p>
+<p>Stay tuned for in-depth technical articles, models, and tools for high-speed I/O designers.</p>
 
 
   </div>
