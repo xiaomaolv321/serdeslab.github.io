@@ -6,23 +6,24 @@
     <description>Recent content in Posts on SerDes Lab</description>
     <generator>Hugo -- 0.154.1</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://serdeslab.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Zero to Eye Diagram: Building a Full SerDes Model in Minutes with MATLAB</title>
+      <link>https://serdeslab.com/posts/full-serdes-system-model-matlab/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://serdeslab.com/posts/full-serdes-system-model-matlab/</guid>
+      <description>A practical walkthrough on building a complete SerDes system-level model
+in MATLAB, including TX FFE, channel effects, RX equalization, and CDR
+behavior — all in a reproducible and simulation-friendly way.
+</description>
+    </item>
     <item>
       <title>Hello SerDes</title>
       <link>https://serdeslab.com/posts/hello-serdes/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://serdeslab.com/posts/hello-serdes/</guid>
-      <description>Welcome to SerDes Lab 🚀
-
-This blog focuses on high-speed serial link design and system-level analysis, including:
-
-• SerDes architectures  
-• CDR, FFE, and DFE  
-• System-level modeling using MATLAB and Python  
-
-Clear, practical, and reproducible insights into modern high-speed I/O design.
-</description>
+      <description>Welcome to SerDes Lab 🚀</description>
     </item>
   </channel>
 </rss>

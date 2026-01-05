@@ -6,6 +6,42 @@
     <description>Recent content in Tags on SerDes Lab</description>
     <generator>Hugo -- 0.154.1</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://serdeslab.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CDR</title>
+      <link>https://serdeslab.com/tags/cdr/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://serdeslab.com/tags/cdr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FFE</title>
+      <link>https://serdeslab.com/tags/ffe/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://serdeslab.com/tags/ffe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MATLAB</title>
+      <link>https://serdeslab.com/tags/matlab/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://serdeslab.com/tags/matlab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SerDes</title>
+      <link>https://serdeslab.com/tags/serdes/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://serdeslab.com/tags/serdes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System Modeling</title>
+      <link>https://serdeslab.com/tags/system-modeling/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://serdeslab.com/tags/system-modeling/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
