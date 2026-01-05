@@ -6,12 +6,12 @@
     <description>Recent content in Posts on SerDes Lab</description>
     <generator>Hugo -- 0.154.1</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://serdeslab.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From Zero to Eye Diagram: Building a Full SerDes Model in Minutes with MATLAB</title>
       <link>https://serdeslab.com/posts/full-serdes-system-model-matlab/</link>
-      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0900</pubDate>
       <guid>https://serdeslab.com/posts/full-serdes-system-model-matlab/</guid>
       <description>A practical walkthrough on building a complete SerDes system-level model
 in MATLAB, including TX FFE, channel effects, RX equalization, and CDR
