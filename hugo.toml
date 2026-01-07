@@ -1,0 +1,24 @@
+baseURL = "https://serdeslab.com/"
+languageCode = "en-us"
+title = "SerDes Lab"
+
+relativeURLs = false
+canonifyURLs = true
+
+theme = "PaperMod"
+
+[params]
+ShowReadingTime = true
+ShowToc = true
+
+[params.profileMode]
+enabled = false
+
+[params.homeInfoParams]
+Title = "SerDes Lab"
+Content = "High-speed SerDes system modeling, CDR, FFE, DFE, MATLAB & silicon insights."
+
+[params.mainSections]
+mainSections = ["posts"]
+
+

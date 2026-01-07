@@ -1,0 +1,11 @@
+/* Prevent large SVG/canvas from blocking interactions */
+svg,
+canvas {
+  pointer-events: none !important;
+  user-select: none !important;
+}
+
+/* 如果是 img 导出的图 */
+.post-content img {
+  pointer-events: auto;
+}
