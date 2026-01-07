@@ -1,3 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SerDes on SerDes Lab</title><link>https://serdeslab.com/tags/serdes/</link><description>Recent content in SerDes on SerDes Lab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0900</lastBuildDate><atom:link href="https://serdeslab.com/tags/serdes/index.xml" rel="self" type="application/rss+xml"/><item><title>From Zero to Eye Diagram: Building a Full SerDes Model in Minutes with MATLAB</title><link>https://serdeslab.com/posts/full-serdes-system-model-matlab/</link><pubDate>Sat, 03 Jan 2026 00:00:00 +0900</pubDate><guid>https://serdeslab.com/posts/full-serdes-system-model-matlab/</guid><description>&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;For anyone diving into high-speed interface design, the complexity of SerDes (Serializer/Deserializer) modeling can be overwhelming.
-However, MATLAB’s built-in SerDes Toolbox has changed the game, making it incredibly accessible for beginners and efficient for pros.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SerDes on SerDes Lab</title>
+    <link>https://serdeslab.com/tags/serdes/</link>
+    <description>Recent content in SerDes on SerDes Lab</description>
+    <generator>Hugo -- 0.154.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://serdeslab.com/tags/serdes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Zero to Eye Diagram: Building a Full SerDes Model in Minutes with MATLAB</title>
+      <link>https://serdeslab.com/posts/full-serdes-system-model-matlab/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0900</pubDate>
+      <guid>https://serdeslab.com/posts/full-serdes-system-model-matlab/</guid>
+      <description>A practical walkthrough on building a complete SerDes system-level model
+in MATLAB, including TX FFE, channel effects, RX equalization, and CDR
+behavior — all in a reproducible and simulation-friendly way.
+</description>
+    </item>
+  </channel>
+</rss>
