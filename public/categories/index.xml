@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on SerDes Lab</title>
+    <link>https://serdeslab.com/categories/</link>
+    <description>Recent content in Categories on SerDes Lab</description>
+    <generator>Hugo -- 0.154.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://serdeslab.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SerDes Modeling</title>
+      <link>https://serdeslab.com/categories/serdes-modeling/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0900</pubDate>
+      <guid>https://serdeslab.com/categories/serdes-modeling/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
