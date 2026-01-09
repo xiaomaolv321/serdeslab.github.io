@@ -2,9 +2,10 @@ baseURL = "https://serdeslab.com/"
 languageCode = "en-us"
 title = "SerDes Lab"
 
-publishDir = "."
+# ✅ 删除或注释这行
+# publishDir = "."
+
 relativeURLs = false
 canonifyURLs = true
 
-
-
+theme = "PaperMod"
